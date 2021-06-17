@@ -1,0 +1,2 @@
+rootProject.name = "FragmentsFoxandroid"
+include ':app'
